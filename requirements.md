@@ -35,17 +35,17 @@ This file lists information and questions that have to be specified and answered
 
 - What commands do you want?
 
-The following should be given for _every_ command.
+The following information should be given for _every_ command.
 - Give a detailed description about the command and what it should do if executed.
 - Who is allowed to execute it?
-  x players with a special permission?
-  x OP players?
-  x only console?
-  x ...
+  - players with a special permission?
+  - OP players?
+  - only console?
+  - ...
 - Describe every parameter of the command.
-  x optional or not?
-  x What does the parameter mean and what is the impact of it?
-  x What values are valid for the parameter? (e.g. only positive numbers, single word without spaces, ...)
+  - optional or not?
+  - What does the parameter mean and what is the impact of it?
+  - What values are valid for the parameter? (e.g. only positive numbers, single word without spaces, ...)
 
 
 ## Data management
@@ -63,6 +63,6 @@ The data has to be stored somewhere.
 ## Others
 - Should the plugin be "reload-save"? Meaning reloading the server should not break the plugin.
 - Should the plugin provide an API that can be accessed by other plugins?
-  x And if so, please specify the interface.
+  - And if so, please specify the interface.
 - Should external APIs be used in the plugin? (e.g. Vault)
 - Are there plugins/APIs, you _don't_ want to have on the server to run the developed plugin?
