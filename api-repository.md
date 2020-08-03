@@ -1,9 +1,13 @@
 API repository
 ---
-Nowadays, there exists a lot of usefull Spigot APIs that reduce boilerplate.
+Nowadays, there exists a lot of useful Spigot APIs that reduce boilerplate.
 This file lists some of them.
 
 ## Commands
+- [commands](https://github.com/aikar/commands) by [@aikar](https://github.com/aikar/)
+
+  > commands is a command dispatcher framework that reduces boilerplate by annotations.
+
 - [kaesk](https://github.com/DRSchlaubi/kaesk) by [@DRSchlaubi](https://github.com/DRSchlaubi)
 
   > kaesk is an annotation-based command framework that reduces duplicated code and boilerplate.
@@ -54,10 +58,21 @@ This file lists some of them.
 
   > This API adds custom lines of text below a players name.
 
-## Create version-independet plugins
+## Create version-independent plugins
+- [kelp](https://github.com/PXAV/kelp) by [@PXAV](https://github.com/PXAV/)
+
+  > kelp is an all-in-one framework that aims to avoid version-depended code.
+  
+  __Main features__:
+  - Sidebar system
+  - Inventory system
+  - NPC system: 
+  - Command system
+  - Config system
+
 - [XSeries](https://github.com/CryptoMorin/XSeries) by [@CryptoMorin](https://github.com/CryptoMorin)
 
-  > XSeries provides abstraction for several version-dependet classes.
+  > XSeries provides abstraction for several version-depended classes.
   
   __Main features__:
   - potions, materials, sounds, particles, ...
@@ -97,3 +112,11 @@ This file lists some of them.
 - [MinecraftDev](https://github.com/minecraft-dev/MinecraftDev) by [@minecraft-dev](https://github.com/minecraft-dev)
 
   > An IntelliJ plugin that setups minecraft plugin projects.
+  
+- [Slime-World-Manager](https://github.com/Grinderwolf/Slime-World-Manager) by [@Grinderwolf](https://github.com/Grinderwolf/)
+
+  > Implementation of the Slime Region Format, developed by the Hypixel Dev Team.
+  
+- [MCProtocolLib](https://github.com/Steveice10/MCProtocolLib) by [@Steveice10](https://github.com/Steveice10/MCProtocolLib)
+
+  > MCProtocolLib provides a protocol library to send and receive packets without using Spigot as dependency.
