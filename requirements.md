@@ -27,8 +27,11 @@ This file lists information and questions that have to be specified and answered
 
 - Should it be possible to edit messages?
 - Could the messages contain any placeholder?
+- Should the plugin support multiple languages (per player)?
 
 ## Inventories
+Please provide screenshots and detailed descriptions for every inventory.
+You can create an inventory by filling a chest in creative.
 
 ## Commands
 > Commands are very common. So it's just more important to fully specify the commands.
@@ -64,5 +67,6 @@ The data has to be stored somewhere.
 - Should the plugin be "reload-save"? Meaning reloading the server should not break the plugin.
 - Should the plugin provide an API that can be accessed by other plugins?
   - And if so, please specify the interface.
+  - Should the plugin call own events?
 - Should external APIs be used in the plugin? (e.g. Vault)
 - Are there plugins/APIs, you _don't_ want to have on the server to run the developed plugin?
