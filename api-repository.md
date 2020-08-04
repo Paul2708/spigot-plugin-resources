@@ -3,21 +3,21 @@
 There are a lot of tools, libraries and frameworks for Bukkit-based plugin development.
 This file lists an unexhaustive selection.
 
-- Frameworks
-- Utilities
-  - Version Independent Code
-  - Dependency Management
-  - Bridges
-  - Packets
-- Other Languages
-- Commands
-- Libraries
-  - NPCs
-  - Maps
-  - GUIs
-  - Scoreboards
-  - Holograms
-  - Worlds
+- [Frameworks](#Frameworks)
+- [Utilities](#Utilities)
+  - [Version Independent Code](#Version-Independent-Code)
+  - [Dependency Management](#Dependency-Management)
+  - [Bridges](#Bridges)
+  - [Packets](#Packets)
+- [Other Languages](#Other-Languages)
+- [Commands](#Commands)
+- [Libraries](#Libraries)
+  - [NPCs](#NPCs)
+  - [Maps](#Maps)
+  - [GUIs](#GUIs)
+  - [Scoreboards](#Scoreboards)
+  - [Holograms](#Holograms)
+  - [Worlds](#Worlds)
 
 ## Frameworks
 
@@ -191,7 +191,7 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   More features and examples can be found [here](https://minuskube.gitbook.io/smartinvs/).
 
-## Scoreboards
+### Scoreboards
 
 - [Netherboard](https://github.com/MinusKube/Netherboard) by [@MinusKube](https://github.com/MinusKube/)
 
@@ -205,13 +205,13 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > This API adds custom lines of text below a players name.
   
-## Holograms
+### Holograms
 
 - [HolographicDisplays](https://github.com/filoghost/HolographicDisplays) by [@filoghost](https://github.com/filoghost)
 
   > Plugin and API to create holograms.
   
-## Worlds
+### Worlds
 
 - [WorldGeneratorAPI](https://github.com/rutgerkok/WorldGeneratorApi) by [@rutgerkok](https://github.com/rutgerkok)
 
