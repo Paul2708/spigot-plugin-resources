@@ -2,22 +2,17 @@
 
 ## Java Edition
 
-The Minecraft Java Edition client knows how to communicate with any TCP server that follows the [Minecraft server protocol](https://wiki.vg/Protocol](https://wiki.vg/Protocol). Servers that conform to this are called "Notchian" servers. While there is an [official implementation](https://www.minecraft.net/en-us/download/server) of this server provided by Mojang, there are re-implementations and modifications of it.
+The Minecraft Java Edition client knows how to communicate with any TCP server that follows the [Minecraft server protocol](https://wiki.vg/Protocol). Servers that conform to this are called "Notchian" servers. While there is an [official implementation](https://www.minecraft.net/en-us/download/server) of this server provided by Mojang, there are re-implementations and modifications of it.
 
 ### Modifications
 
 Below you can see a hierarchy of the most popular server software based on the official server. 
 
 - [Vanilla Server](https://www.minecraft.net/en-us/download/server)
-
   - [CraftBukkit](https://bukkit.org)
-
     - [Spigot](https://spigotmc.org)
-
       - [TacoSpigot](https://tacospigot.github.io)
-
       - [PaperMC](https://papermc.io)
-
   - [Sponge](https://spongepowered.org)
 
 #### CraftBukkit
