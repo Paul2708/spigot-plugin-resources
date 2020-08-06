@@ -211,6 +211,12 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > Plugin and API to create holograms.
   
+### NBT
+
+- [Item-NBT-API](https://github.com/tr7zw/Item-NBT-API) by [@tr7zw](https://github.com/tr7zw)
+
+  > NMS-free NBT api with yaml, json, SQL and Redis serialization.
+  
 ### Worlds
 
 - [WorldGeneratorAPI](https://github.com/rutgerkok/WorldGeneratorApi) by [@rutgerkok](https://github.com/rutgerkok)
