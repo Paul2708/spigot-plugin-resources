@@ -17,6 +17,7 @@ This file lists an unexhaustive selection.
   - [GUIs](#GUIs)
   - [Scoreboards](#Scoreboards)
   - [Holograms](#Holograms)
+  - [NBT](#NBT)
   - [Worlds](#Worlds)
 
 ## Frameworks
