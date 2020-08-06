@@ -54,7 +54,11 @@ I case you want to play around with the protocol in Java yourself, this may be o
 
 ### Proxies
 
-*Information about BungeeCord and its descendants TBA...*
+Reverse proxies can be used to coordinate connections between different servers.
+
+- [BungeeCord](https://github.com/SpigotMC/BungeeCord)
+  - [Waterfall](https://github.com/PaperMC/Waterfall)
+    - [Travertine](https://github.com/PaperMC/Travertine)
 
 ## Bedrock Edition
 
