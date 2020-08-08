@@ -25,11 +25,11 @@ See [the API repository](./api-repository.md) for a list of tools for Bukkit-bas
 
 #### Sponge
 
-[Sponge](https://spongepowered.org) is another modified vanilla server independent from CraftBukkit. It also has a plugin system with an API to create server-side mods, but additionally, it's commonly used as a server for the [Forge](http://files.minecraftforge.net) modding platform.
+[Sponge](https://spongepowered.org) is another modified vanilla server independent of CraftBukkit. It also has a plugin system with an API to create server-side mods, but additionally, it's commonly used as a server for the [Forge](http://files.minecraftforge.net) modding platform.
 
 ### Re-Implementations
 
-There is a number of reasons why it may be beneficial to use a server that does not depend on the official vanilla server at all. First of all, it prevents the [licensing issues that occur when redistributing proprietary code](https://blog.jwf.io/2020/04/open-source-minecraft-bukkit-gpl/). Second of all, it gives you a lot more freedom in how to structure the server, which systems to use etc.
+There is a number of reasons why it may be beneficial to use a server that does not depend on the official vanilla server at all. First, it prevents the [licensing issues that occur when redistributing proprietary code](https://blog.jwf.io/2020/04/open-source-minecraft-bukkit-gpl/). Second of all, it gives you a lot more freedom in how to structure the server, which systems to use etc.
 
 There are many independent Notchian server implementations and you can find [unofficial lists](https://wiki.vg/Server_List) on the internet. Below, we list a couple of Java-based servers that we find interesting.
 
@@ -46,7 +46,7 @@ There are many independent Notchian server implementations and you can find [uno
   - Instance system which is much more scalable than worlds
   - Modern API
 
-I case you want to play around with the protocol in Java yourself, this may be of use:
+In case you want to play around with the protocol in Java yourself, this may be of use:
 
 - [MCProtocolLib](https://github.com/Steveice10/MCProtocolLib) by [@Steveice10](https://github.com/Steveice10/MCProtocolLib)
 
