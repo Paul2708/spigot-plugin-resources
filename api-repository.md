@@ -28,12 +28,35 @@ Full-blown frameworks that operate on top of Bukkit and define how you write you
 
   > kelp is an all-in-one framework that aims to avoid version-depended code.
 
-  __Main features__:
+  __Core features__:
   - Sidebar system
   - Inventory system
   - NPC system: 
   - Command system
   - Config system
+
+- [helper](https://github.com/lucko/helper) by [@lucko](https://github.com/lucko)
+
+  > helper is another all-in-one framework that aims to reduce most boilerplate code in bukkit but also other stuff like lilypad, redis and database management.
+  
+  __Main features__:
+  - Events
+  - Scheduler
+  - Promise
+  - Metadata
+  - Messenger
+  - Commands
+  - Scoreboard
+  - GUI
+  - Menu Scheming
+  - Random
+  - Bucket
+  - Profiles
+  - Plugin & Maven- Annotations
+  - Terminables
+  - Serialization
+  - Bungee Messaging
+  - JavaScript Plugins
 
 ## Utilities
 
@@ -144,16 +167,26 @@ They all aim to reduce the boilerplate involved in writing commands the traditio
 - [Matt's framework](https://github.com/ipsk/MattFramework) by [@ipsk](https://github.com/ipsk)
 - [kaesk](https://github.com/DRSchlaubi/kaesk) by [@DRSchlaubi](https://github.com/DRSchlaubi)
 - [simple-commands](https://github.com/Paul2708/simple-commands) by [@Paul2708](https://github.com/Paul2708)
+- [Brigadier](https://github.com/Mojang/brigadier) by [@Mojang](https://github.com/Mojang)
+- [Commodore](https://github.com/lucko/commodore) by [@lucko](https://github.com/lucko)
+
 
 ## Libraries
 
 Libraries are projects that focus on a specific aspect of plugins.
+
+### Scheduling
+
+- [TaskChain](https://github.com/aikar/TaskChain) by [@aikar](https://github.com/aikar)
+
+  > Library to help organize tasks.
 
 ### NPCs
 
 - [NPCLib](https://github.com/MinecraftLibraries/NPCLib) by [@JitseB](https://github.com/JitseB)
 
   > Library that allows developers to create NPCs with an easy-to-use API.
+  
 - [CitizensAPI](https://github.com/CitizensDev/CitizensAPI) by [@fullwall](https://github.com/fullwall)
 
   > API to create and manage NPCs using the [Citizens](https://github.com/CitizensDev/Citizens2) plugin
