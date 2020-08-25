@@ -149,7 +149,11 @@ Who says that you can only use Java to write plugins?
 - [spiglin](https://github.com/johnnyjayjay/spiglin) by [@JohnnyJayJay](https://github.com/johnnyjayjay)
 
   > spiglin is a collection of extensions and utilities for plugins written in the [Kotlin](https://kotlinlang.org) programming language.
-  
+
+- [KotlinBukkitAPI](https://github.com/DevSrSouza/KotlinBukkitAPI) by [@DevSrSouza](https://github.com/DevSrSouza/)
+
+  > KotlinBukkitAPI is an API for Bukkit/SpigotAPI using the cool and nifty features Kotlin has to make your life more easier.
+
 - [spigot-clj-template](https://github.com/johnnyjayjay/spigot-clj-template) by [@JohnnyJayJay](https://github.com/JohnnyJayJay)
 
   > spigot-clj-template is a [Leiningen](https://leiningen.org) template to write plugins using the [Clojure](https://clojure.org) programming language.
