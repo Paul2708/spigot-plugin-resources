@@ -255,6 +255,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > NMS-free NBT api with yaml, json, SQL and Redis serialization.
   
+- [KotlinNBT](https://github.com/DevSrSouza/KotlinNBT) by [@DevSrSouza](https://github.com/DevSrSouza)
+  
+  > Named Binary Tag (NBT) library for Kotlin Multiplatform
+  
 ### Worlds
 
 - [WorldGeneratorAPI](https://github.com/rutgerkok/WorldGeneratorApi) by [@rutgerkok](https://github.com/rutgerkok)
