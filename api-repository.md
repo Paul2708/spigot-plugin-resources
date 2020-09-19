@@ -177,6 +177,7 @@ They all aim to reduce the boilerplate involved in writing commands the traditio
 - [simple-commands](https://github.com/Paul2708/simple-commands) by [@Paul2708](https://github.com/Paul2708)
 - [Brigadier](https://github.com/Mojang/brigadier) by [@Mojang](https://github.com/Mojang)
 - [Commodore](https://github.com/lucko/commodore) by [@lucko](https://github.com/lucko)
+- [CommandAPI](https://github.com/JorelAli/CommandAPI) by [@JorelAli](https://github.com/JorelAli/)
 
 
 ## Libraries
