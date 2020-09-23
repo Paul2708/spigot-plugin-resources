@@ -14,6 +14,7 @@ This file lists an unexhaustive selection.
   - [Packets](#Packets)
 - [Commands](#Commands)
 - [Libraries](#Libraries)
+  - [Chat](#Chat)
   - [GUIs](#GUIs)
   - [Holograms](#Holograms)
   - [Maps](#Maps)
@@ -157,6 +158,12 @@ They all aim to reduce the boilerplate involved in writing commands the traditio
 ## Libraries
 
 Libraries are projects that focus on a specific aspect of plugins.
+
+### Chat
+
+- [MF-MSG](https://github.com/ipsk/MF-MSG) by [@ipsk](https://github.com/ipsk/)
+
+  > A Discord like markdown implementation for Spigot supporting colors and gradients.
 
 ### GUIs
 
