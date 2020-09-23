@@ -3,13 +3,14 @@
 There are a lot of tools, libraries and frameworks for Bukkit-based plugin development.
 This file lists an unexhaustive selection.
 
+## Contents
+
 - [Frameworks](#Frameworks)
 - [Utilities](#Utilities)
   - [Version Independent Code](#Version-Independent-Code)
   - [Dependency Management](#Dependency-Management)
   - [Bridges](#Bridges)
   - [Packets](#Packets)
-- [Other Languages](#Other-Languages)
 - [Commands](#Commands)
 - [Libraries](#Libraries)
   - [NPCs](#NPCs)
@@ -19,6 +20,7 @@ This file lists an unexhaustive selection.
   - [Holograms](#Holograms)
   - [NBT](#NBT)
   - [Worlds](#Worlds)
+- [Other Languages](#Other-Languages)
 
 ## Frameworks
 
@@ -133,38 +135,6 @@ Tools that help you with compatibility, interopability and workflow.
   __Main features:__
   - Packet interception
   - Obfuscation-free API
-
-## Other Languages
-
-Who says that you can only use Java to write plugins?
-
-- [VisualBukkit](https://github.com/OfficialDonut/VisualBukkit) by [@OfficialDonut](https://github.com/OfficialDonut)
-
-  > VisualBukkit is a visual programming language for Bukkit plugins.
-  
-- [Skript](https://github.com/SkriptLang/Skript) by [@bensku](https://github.com/bensku)
-
-  > Skript is a domain specific language for Bukkit with the aim to enable non-programmers to be able to write their own plugins.
-
-- [spiglin](https://github.com/johnnyjayjay/spiglin) by [@JohnnyJayJay](https://github.com/johnnyjayjay)
-
-  > spiglin is a collection of extensions and utilities for plugins written in the [Kotlin](https://kotlinlang.org) programming language.
-
-- [KotlinBukkitAPI](https://github.com/DevSrSouza/KotlinBukkitAPI) by [@DevSrSouza](https://github.com/DevSrSouza/)
-
-  > KotlinBukkitAPI is an API for Bukkit/SpigotAPI using the cool and nifty features Kotlin has to make your life more easier.
-
-- [spigot-clj-template](https://github.com/johnnyjayjay/spigot-clj-template) by [@JohnnyJayJay](https://github.com/JohnnyJayJay)
-
-  > spigot-clj-template is a [Leiningen](https://leiningen.org) template to write plugins using the [Clojure](https://clojure.org) programming language.
-
-- [spigot-gradle-kotlin-template](https://github.com/NyCodeGHG/spigot-gradle-kotlin-template) by [@NyCodeGHG](https://github.com/NyCodeGHG)
-
-  > Template for creating a Spigot Plugin with Gradle and the Kotlin programming language.
-
-- [minecraft-python](https://github.com/Macuyiko/minecraft-python) by [@Macuyiko](https://github.com/Macuyiko)
-
-  > minecraft-python is an interpreter system leveraging [Jython](https://www.jython.org/) to write Spigot plugins in Python.
 
 ## Commands
 
@@ -285,3 +255,35 @@ Libraries are projects that focus on a specific aspect of plugins.
 - [Slime-World-Manager](https://github.com/Grinderwolf/Slime-World-Manager) by [@Grinderwolf](https://github.com/Grinderwolf/)
 
   > Implementation of the Slime Region Format, developed by the Hypixel Dev Team.
+  
+## Other Languages
+
+Who says that you can only use Java to write plugins?
+
+- [VisualBukkit](https://github.com/OfficialDonut/VisualBukkit) by [@OfficialDonut](https://github.com/OfficialDonut)
+
+  > VisualBukkit is a visual programming language for Bukkit plugins.
+  
+- [Skript](https://github.com/SkriptLang/Skript) by [@bensku](https://github.com/bensku)
+
+  > Skript is a domain specific language for Bukkit with the aim to enable non-programmers to be able to write their own plugins.
+
+- [spiglin](https://github.com/johnnyjayjay/spiglin) by [@JohnnyJayJay](https://github.com/johnnyjayjay)
+
+  > spiglin is a collection of extensions and utilities for plugins written in the [Kotlin](https://kotlinlang.org) programming language.
+
+- [KotlinBukkitAPI](https://github.com/DevSrSouza/KotlinBukkitAPI) by [@DevSrSouza](https://github.com/DevSrSouza/)
+
+  > KotlinBukkitAPI is an API for Bukkit/SpigotAPI using the cool and nifty features Kotlin has to make your life more easier.
+
+- [spigot-clj-template](https://github.com/johnnyjayjay/spigot-clj-template) by [@JohnnyJayJay](https://github.com/JohnnyJayJay)
+
+  > spigot-clj-template is a [Leiningen](https://leiningen.org) template to write plugins using the [Clojure](https://clojure.org) programming language.
+
+- [spigot-gradle-kotlin-template](https://github.com/NyCodeGHG/spigot-gradle-kotlin-template) by [@NyCodeGHG](https://github.com/NyCodeGHG)
+
+  > Template for creating a Spigot Plugin with Gradle and the Kotlin programming language.
+
+- [minecraft-python](https://github.com/Macuyiko/minecraft-python) by [@Macuyiko](https://github.com/Macuyiko)
+
+  > minecraft-python is an interpreter system leveraging [Jython](https://www.jython.org/) to write Spigot plugins in Python.
