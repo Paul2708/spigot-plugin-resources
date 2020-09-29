@@ -63,6 +63,33 @@ Full-blown frameworks that operate on top of Bukkit and define how you write you
   - Command system
   - Config system
 
+- [SpigotLib](https://github.com/gyurix/SpigotLib) by [@gyurix](https://github.com/gyurix)
+
+  > SpigotLib is a collection of several useful libraries and APIs for Spigot plugin development.
+  
+  __Features__:
+  - Animations
+  - BungeeCord Communication
+  - Chat API
+  - Command API
+  - Config management
+  - EconomyAPI
+  - Gui API
+  - Json API
+  - Language management
+  - Map API
+  - Mojang API
+  - MySQL API
+  - NBT API
+  - Packet API
+  - PlayerFile
+  - RomanNums API
+  - Scoreboard API
+  - Time API
+  - Title API
+  - TPS meter and crashreporter
+  - Variable API
+
 ## Utilities
 
 Tools that help you with compatibility, interopability and workflow.
