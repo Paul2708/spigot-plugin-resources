@@ -13,6 +13,7 @@ This file lists an unexhaustive selection.
   - [Bridges](#Bridges)
   - [Packets](#Packets)
 - [Commands](#Commands)
+- [Templates](#Templates)
 - [Libraries](#Libraries)
   - [Chat](#Chat)
   - [GUIs](#GUIs)
@@ -154,6 +155,18 @@ They all aim to reduce the boilerplate involved in writing commands the traditio
 - [kaesk](https://github.com/DRSchlaubi/kaesk) by [@DRSchlaubi](https://github.com/DRSchlaubi)
 - [Matt's framework](https://github.com/ipsk/MattFramework) by [@ipsk](https://github.com/ipsk)
 - [simple-commands](https://github.com/Paul2708/simple-commands) by [@Paul2708](https://github.com/Paul2708)
+
+## Templates
+
+Templates are repositories which you can use to reduce the work on creating a new project with all that boilerplate stuff.
+
+- [spigot-gradle-java-template](https://github.com/NyCodeGHG/spigot-gradle-java-template) by [@NyCodeGHG](https://github.com/NyCodeGHG)
+
+  > Template for creating a Spigot Plugin with Gradle.
+
+- [spigot-gradle-kotlin-template](https://github.com/NyCodeGHG/spigot-gradle-kotlin-template) by [@NyCodeGHG](https://github.com/NyCodeGHG)
+
+  > Template for creating a Spigot Plugin with Gradle and the Kotlin programming language.
 
 ## Libraries
 
