@@ -11,9 +11,12 @@ Below you can see a hierarchy of the most popular server software based on the o
 - [Vanilla Server](https://www.minecraft.net/en-us/download/server)
   - [CraftBukkit](https://bukkit.org)
     - [Spigot](https://spigotmc.org)
-      - [TacoSpigot](https://tacospigot.github.io)
       - [PaperMC](https://papermc.io)
+        - [TacoSpigot](https://tacospigot.github.io)
   - [Sponge](https://spongepowered.org)
+  - [Forge](https://minecraftforge.net)
+  - [Fabric](https://fabricmc.net)
+    - [Woven](https://www.wovenmc.net/)
 
 #### CraftBukkit
 
@@ -26,6 +29,15 @@ See [the API repository](./api-repository.md) for a list of tools for Bukkit-bas
 #### Sponge
 
 [Sponge](https://spongepowered.org) is another modified vanilla server independent of CraftBukkit. It also has a plugin system with an API to create server-side mods, but additionally, it's commonly used as a server for the [Forge](http://files.minecraftforge.net) modding platform.
+
+
+#### Forge
+
+[Forge](https://minecraftforge.net) is a modified version of the vanilla server (& client) just like CraftBukkit, but it's not only for server side modding, it also has a client version that must be installed to work.
+
+#### Fabric
+
+[Fabric](https://fabricmc.net) is an alternative to Forge which aims to be more modular and with a more modern api than forge. It also has native support for [Kotlin](https://kotlinlang.org), [Scala](https://www.scala-lang.org/) and [Groovy](https://groovy-lang.org/).
 
 ### Re-Implementations
 
