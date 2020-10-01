@@ -182,6 +182,7 @@ They all aim to reduce the boilerplate involved in writing commands the traditio
 - [kaesk](https://github.com/DRSchlaubi/kaesk) by [@DRSchlaubi](https://github.com/DRSchlaubi)
 - [Matt's framework](https://github.com/ipsk/MattFramework) by [@ipsk](https://github.com/ipsk)
 - [simple-commands](https://github.com/Paul2708/simple-commands) by [@Paul2708](https://github.com/Paul2708)
+- [pipe](https://github.com/Lukaesebrot/pipe) by [@Lukaesebrot](https://github.com/Lukaesebrot)
 
 ## Templates
 
@@ -227,6 +228,15 @@ Libraries are projects that focus on a specific aspect of plugins.
   - Actions when player clicks on an item
 
   More features and examples can be found [here](https://minuskube.gitbook.io/smartinvs/).
+  
+- [pipe](https://github.com/Lukaesebrot/pipe) by [@Lukaesebrot](https://github.com/Lukaesebrot)
+
+  > Pipe helps to create simple callback-based GUIs.
+
+  __Main features__:
+  - intuitive component API (makes additions easier)
+  - not bloated
+  - easy to use builder classes
 
 ### Holograms
 
