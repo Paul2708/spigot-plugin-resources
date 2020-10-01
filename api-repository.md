@@ -348,3 +348,7 @@ Who says that you can only use Java to write plugins?
 - [minecraft-python](https://github.com/Macuyiko/minecraft-python) by [@Macuyiko](https://github.com/Macuyiko)
 
   > minecraft-python is an interpreter system leveraging [Jython](https://www.jython.org/) to write Spigot plugins in Python.
+  
+- [Lukkit](https://github.com/lukkit/Lukkit) by [@lukkit](https://github.com/lukkit)
+
+  > Lukkit allows you to write Spigot plugins in LUA.
