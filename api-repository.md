@@ -204,6 +204,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 - [MF-MSG](https://github.com/ipsk/MF-MSG) by [@ipsk](https://github.com/ipsk/)
 
   > A Discord like markdown implementation for Spigot supporting colors and gradients.
+  
+- [better-components](https://github.com/RealCerus/better-components) by [@RealCerus](https://github.com/RealCerus/)
+
+  > A very small Spigot library for text components.
 
 ### GUIs
 
@@ -318,6 +322,10 @@ Who says that you can only use Java to write plugins?
 - [Skript](https://github.com/SkriptLang/Skript) by [@bensku](https://github.com/bensku)
 
   > Skript is a domain specific language for Bukkit with the aim to enable non-programmers to be able to write their own plugins.
+  
+-[Denizen](https://github.com/DenizenScript/Denizen)
+
+  > NPC and general Spigot scripting, using the Denizen Scripting Language.
 
 - [spiglin](https://github.com/johnnyjayjay/spiglin) by [@JohnnyJayJay](https://github.com/johnnyjayjay)
 
