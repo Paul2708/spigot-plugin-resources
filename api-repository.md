@@ -323,7 +323,7 @@ Who says that you can only use Java to write plugins?
 
   > Skript is a domain specific language for Bukkit with the aim to enable non-programmers to be able to write their own plugins.
   
--[Denizen](https://github.com/DenizenScript/Denizen)
+- [Denizen](https://github.com/DenizenScript/Denizen) by [@mcmonkey4eva](https://github.com/mcmonkey4eva)
 
   > NPC and general Spigot scripting, using the Denizen Scripting Language.
 
