@@ -79,6 +79,16 @@ Reverse proxies can be used to coordinate connections between different servers.
     - [Travertine](https://github.com/PaperMC/Travertine)
 - [Velocity](https://velocitypowered.com)
 
+#### BungeeCord
+
+BungeeCord is the de-facto standard for Minecraft Networks. You can link multiple servers together and dynamically switch between them. Most Networks use [Waterfall](https://github.com/PaperMC/Waterfall) by the PaperMC team. It's like Paper for spigot, but for bungeecord.
+
+#### Velocity
+
+Velocity is a modern alternative to BungeeCord which is faster and more secure than BungeeCord. It also has a nice [Plugin API](https://docs.velocitypowered.com/en/latest/developers/creating-your-first-plugin.html). Also it provides some compatibility stuff, so it can handle the BungeeCord Plugin Messaging Channel.
+
+#### 
+
 ## Bedrock Edition
 
 ...
