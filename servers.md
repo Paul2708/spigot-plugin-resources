@@ -32,10 +32,10 @@ See [the API repository](./api-repository.md) for a list of tools for Bukkit-bas
 [Sponge](https://spongepowered.org) is another modified vanilla server independent of CraftBukkit. It also has a plugin system with an API to create server-side mods, but additionally, it's commonly used as a server for the [Forge](http://files.minecraftforge.net) modding platform.
 
 #### TacoSpigot
-TacoSpigot is a even higher performance fork of PaperSpigot.
+[TacoSpigot](https://tacospigot.github.io) is a even higher performance fork of [Paper](https://papermc.io)Spigot.
 
 #### Tuinity
-Tuinity is a Fork of Paper aimed to improve performance at high playercounts.
+[Tuinity](https://github.com/Spottedleaf/Tuinity) is a Fork of Paper aimed to improve performance at high playercounts.
 
 #### Forge
 
