@@ -284,6 +284,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 - [TaskChain](https://github.com/aikar/TaskChain) by [@aikar](https://github.com/aikar)
 
   > Library to help organize tasks.
+  
+- [Skedule](https://github.com/okkero/Skedule) by [@okkero](https://github.com/okkero/Skedule)
+  
+  > Library for easier usage of Bukkit Schedulers with the [Kotlin](https://kotlinlang.org programming language.
 
 ### Scoreboards
 
