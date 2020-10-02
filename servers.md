@@ -77,6 +77,7 @@ Reverse proxies can be used to coordinate connections between different servers.
 - [BungeeCord](https://github.com/SpigotMC/BungeeCord)
   - [Waterfall](https://github.com/PaperMC/Waterfall)
     - [Travertine](https://github.com/PaperMC/Travertine)
+- [Velocity](https://velocitypowered.com)
 
 ## Bedrock Edition
 
