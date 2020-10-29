@@ -268,6 +268,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 - [KotlinNBT](https://github.com/DevSrSouza/KotlinNBT) by [@DevSrSouza](https://github.com/DevSrSouza)
   
   > Named Binary Tag (NBT) library for Kotlin Multiplatform
+  
+- [simple-nbt](https://github.com/cerus/simple-nbt) by [@cerus](https://github.com/cerus)
+
+  > Very simple implementation of the NBT (Named Binary Tag) format, including reading and writing.
 
 ### NPCs
 
