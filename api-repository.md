@@ -12,7 +12,7 @@ This file lists an unexhaustive selection.
   - [Dependency Management](#Dependency-Management)
   - [Bridges](#Bridges)
   - [Packets](#Packets)
-  - [CI/CD](#CI/CD)
+  - [CI/CD](#CICD)
 - [Commands](#Commands)
 - [Templates](#Templates)
 - [Libraries](#Libraries)
