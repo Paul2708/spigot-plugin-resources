@@ -12,6 +12,7 @@ This file lists an unexhaustive selection.
   - [Dependency Management](#Dependency-Management)
   - [Bridges](#Bridges)
   - [Packets](#Packets)
+  - [CI/CD](#CI/CD)
 - [Commands](#Commands)
 - [Templates](#Templates)
 - [Libraries](#Libraries)
@@ -169,6 +170,12 @@ Tools that help you with compatibility, interopability and workflow.
   __Main features:__
   - Packet interception
   - Obfuscation-free API
+
+### CI/CD
+
+- [Action-SpigotMC](https://github.com/SpraxDev/Action-SpigotMC) by [@SpraxDev](https://github.com/SpraxDev)
+
+  > A GitHub action that allows you to easily compile Minecraft Spigot and install it in your runners local maven repository.
 
 ## Commands
 
