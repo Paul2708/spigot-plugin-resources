@@ -185,6 +185,7 @@ They all aim to reduce the boilerplate involved in writing commands the traditio
 - [Annotation Command Framework](https://github.com/aikar/commands) by [@aikar](https://github.com/aikar/)
 - [Brigadier](https://github.com/Mojang/brigadier) by [@Mojang](https://github.com/Mojang)
 - [CommandAPI](https://github.com/JorelAli/CommandAPI) by [@JorelAli](https://github.com/JorelAli/)
+- [CommandFlow](https://github.com/unnamed/CommandFlow) by [@unnamed](https://github.com/unnamed)
 - [Commodore](https://github.com/lucko/commodore) by [@lucko](https://github.com/lucko)
 - [kaesk](https://github.com/DRSchlaubi/kaesk) by [@DRSchlaubi](https://github.com/DRSchlaubi)
 - [Matt's framework](https://github.com/ipsk/MattFramework) by [@ipsk](https://github.com/ipsk)
