@@ -17,6 +17,7 @@ This file lists an unexhaustive selection.
 - [Templates](#Templates)
 - [Libraries](#Libraries)
   - [Chat](#Chat)
+  - [Events](#Events)
   - [GUIs](#GUIs)
   - [Holograms](#Holograms)
   - [Maps](#Maps)
@@ -217,6 +218,12 @@ Libraries are projects that focus on a specific aspect of plugins.
 - [better-components](https://github.com/RealCerus/better-components) by [@RealCerus](https://github.com/RealCerus/)
 
   > A very small Spigot library for text components.
+
+### Events
+
+- [EventAwaiter.java](https://gist.github.com/Paul2708/32d127c8d1d5c31f3a4751cedee3268e) by [@Paul2708](https://github.com/Paul2708)
+
+  > A class that allows to wait (non-blocking) for an event.
 
 ### GUIs
 
