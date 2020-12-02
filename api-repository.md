@@ -22,6 +22,7 @@ This file lists an unexhaustive selection.
   - [Holograms](#Holograms)
   - [Maps](#Maps)
   - [NBT](#NBT)
+  - [Noteblocks](#Noteblocks)
   - [NPCs](#NPCs)
   - [Scheduling](#Scheduling)
   - [Scoreboards](#Scoreboards)
@@ -287,6 +288,12 @@ Libraries are projects that focus on a specific aspect of plugins.
 - [simple-nbt](https://github.com/cerus/simple-nbt) by [@cerus](https://github.com/cerus)
 
   > Very simple implementation of the NBT (Named Binary Tag) format, including reading and writing.
+
+### Noteblocks
+
+- [NoteBlockAPI](https://github.com/koca2000/NoteBlockAPI) by [@koca2000](https://github.com/koca2000/)
+
+  > Play custom `.nbs` files ingame as noteblock sound.
 
 ### NPCs
 
