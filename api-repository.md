@@ -267,6 +267,10 @@ Libraries are projects that focus on a specific aspect of plugins.
   
 ### Maps
 
+- [packet-maps](https://github.com/cerus/packet-maps) by [@cerus](https://github.com/cerus)
+  
+  > Library for doing cool stuff (screenshots, videos, 3D rendering, gifs, ...) with Minecraft maps using packets
+
 - [spigot-maps](https://github.com/johnnyjayjay/spigot-maps) by [@JohnnyJayJay](https://github.com/johnnyjayjay)
   
   > Library to render custom images, gifs and text on Minecraft map items
