@@ -380,6 +380,10 @@ Who says that you can only use Java to write plugins?
 
   > KotlinBukkitAPI is an API for Bukkit/SpigotAPI using the cool and nifty features Kotlin has to make your life more easier.
 
+- [KSpigot](https://github.com/bluefireoly/KSpigot) by [@bluefireoly](https://github.com/bluefireoly)
+
+  > KSpigot adds functionality missing in spigot and makes it possible to do things the kotlin way.
+
 - [spigot-clj-template](https://github.com/johnnyjayjay/spigot-clj-template) by [@JohnnyJayJay](https://github.com/JohnnyJayJay)
 
   > spigot-clj-template is a [Leiningen](https://leiningen.org) template to write plugins using the [Clojure](https://clojure.org) programming language.
