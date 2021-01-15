@@ -306,6 +306,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > API to create and manage NPCs using the [Citizens](https://github.com/CitizensDev/Citizens2) plugin
 
+- [entity-api](https://github.com/FllipEis/entity-api) by [@FllipEis](https://github.com/FllipEis)
+
+  > Create fake players with additonal settings by using a clean interface.
+
 - [NPCLib](https://github.com/MinecraftLibraries/NPCLib) by [@JitseB](https://github.com/JitseB)
 
   > Library that allows developers to create NPCs with an easy-to-use API.
