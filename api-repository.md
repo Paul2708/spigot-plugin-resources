@@ -340,6 +340,10 @@ Libraries are projects that focus on a specific aspect of plugins.
   
 ### Worlds
 
+- [EntityCulling](https://github.com/tr7zw/EntityCulling) by [@tr7zw](https://github.com/tr7zw)
+
+  > Hides entities and tiles(mainly chests) that players are not able to see due to blocks in the way(occlusion culling), and then blocks packets for these entities.
+
 - [FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) by [@boy0001](https://github.com/boy0001)
 
   > Fork of WorldEdit that operates asynchronously for higher performance.
