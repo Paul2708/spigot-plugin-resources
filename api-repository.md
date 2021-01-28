@@ -219,7 +219,11 @@ Libraries are projects that focus on a specific aspect of plugins.
 - [MF-MSG](https://github.com/ipsk/MF-MSG) by [@ipsk](https://github.com/ipsk/)
 
   > A Discord like markdown implementation for Spigot supporting colors and gradients.
-  
+ 
+- [MineDown](https://github.com/Phoenix616/MineDown) by [@Phoenix616](https://github.com/Phoenix616/)
+
+  > A library that adds the ability to use a MarkDown inspired markup to write Minecraft chat components!
+
 
 ### Events
 
