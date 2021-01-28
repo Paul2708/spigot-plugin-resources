@@ -215,6 +215,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 - [better-components](https://github.com/RealCerus/better-components) by [@RealCerus](https://github.com/RealCerus/)
 
   > A very small Spigot library for text components.
+  
+- [book-api](https://github.com/upperlevel/book-api) by [@upperlevel](https://github.com/upperlevel)
+
+  > This project contains more APIs that help the developer in using the books.
 
 - [MF-MSG](https://github.com/ipsk/MF-MSG) by [@ipsk](https://github.com/ipsk/)
 
