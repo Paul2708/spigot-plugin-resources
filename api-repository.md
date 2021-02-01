@@ -246,6 +246,10 @@ Libraries are projects that focus on a specific aspect of plugins.
   - easy-to-use builder
   - set title, items, closing listener and completion listener
 
+- [IF](https://github.com/stefvanschie/IF) by [@stefvanschie](https://github.com/stefvanschie/)
+
+  > An inventory framework for managing GUIs
+
 - [pipe](https://github.com/Lukaesebrot/pipe) by [@Lukaesebrot](https://github.com/Lukaesebrot)
 
   > Pipe helps to create simple callback-based GUIs.
