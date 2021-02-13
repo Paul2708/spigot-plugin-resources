@@ -17,6 +17,7 @@ This file lists an unexhaustive selection.
 - [Templates](#Templates)
 - [Libraries](#Libraries)
   - [Chat](#Chat)
+  - [Configuration](#Configuration)
   - [Events](#Events)
   - [GUIs](#GUIs)
   - [Holograms](#Holograms)
@@ -228,6 +229,11 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > A library that adds the ability to use a MarkDown inspired markup to write Minecraft chat components!
 
+### Configuration
+
+- [SimplixStorage](https://github.com/Simplix-Softworks/SimplixStorage) by [@Simplix Softworks](https://github.com/Simplix-Softworks)
+
+  > A library to store data in a better way independently from Bukkit or BungeeCord
 
 ### Events
 
