@@ -27,6 +27,7 @@ This file lists an unexhaustive selection.
   - [NPCs](#NPCs)
   - [Scheduling](#Scheduling)
   - [Scoreboards](#Scoreboards)
+  - [Testing](#Testing)
   - [Worlds](#Worlds)
 - [Other Languages](#Other-Languages)
 
@@ -364,7 +365,13 @@ Libraries are projects that focus on a specific aspect of plugins.
   __Main features__:
   - simple syntax for creation `BPlayerBoard board = Netherboard.instance().createBoard(player, scoreboard, "My Scoreboard");`
   - simple syntax for adding/removing scores: `board.set("Test Score", 5);`, `board.remove(5)`
-  
+
+### Testing
+
+- [MockBukkit](https://github.com/seeseemelk/MockBukkit) by [@seeseemelk](https://github.com/seeseemelk)
+
+  > MockBukkit is a framework that makes the unit testing of Bukkit plugins a whole lot easier. It aims to be provide complete mock implementation of CraftBukkit that can be completely controlled from a unit test.
+
 ### Worlds
 
 - [EntityCulling](https://github.com/tr7zw/EntityCulling) by [@tr7zw](https://github.com/tr7zw)
