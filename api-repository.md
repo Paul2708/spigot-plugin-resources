@@ -223,6 +223,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > This project contains more APIs that help the developer in using the books.
 
+- [IridiumColorAPI](https://github.com/Iridium-Development/IridiumColorAPI) by [@Iridium-Development](https://github.com/Iridium-Development)
+
+  > Add gradients and rainbow effects to your messages.
+
 - [komponent](https://github.com/BomBardyGamer/komponent) by [@BomBardyGamer](https://github.com/BomBardyGamer)
 
   > An easy to use, fast and lightweight Minecraft chat component library, written in Kotlin.
