@@ -338,6 +338,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > Create fake players with additonal settings by using a clean interface.
 
+- [NPC-Lib](https://github.com/juliarn/NPC-Lib) by [@juliarn](https://github.com/juliarn)
+
+  > Asynchronous, high-performance Minecraft NPC library for 1.8-1.16 servers.
+
 - [NPCLib](https://github.com/MinecraftLibraries/NPCLib) by [@JitseB](https://github.com/JitseB)
 
   > Library that allows developers to create NPCs with an easy-to-use API.
