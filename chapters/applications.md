@@ -5,6 +5,7 @@ This chapter introduces external applications that may be independent of Spigot 
 - [Authentication](#Authentication)
 - [Orchestration](#Orchestration)
 - [Performance](#Performance)
+- [Template](#Template)
 
 ## Authentication
 ### Mc-Auth
@@ -32,3 +33,10 @@ If the provided data is correct, the user will be redirected to the original web
 - [KibblePatcher](https://github.com/KibbleLands/KibblePatcher) by [@KibbleLands](https://github.com/KibbleLands)
   
   > KibbleLands Spigot patcher for better server performances and bytecode optimization.
+
+## Template
+### Plugin-Starter
+[Plugin-Starter](https://github.com/Tammo0987/Plugin-Starter) by [@Tammo0987](https://github.com/Tammo0987) is a project that creates Minecraft plugin boilerplate code via CLI or from a web interface.
+It is inspired by [Spring Initializr](https://start.spring.io).
+It allows developers to select the programming language, server software, Minecraft version, and dependencies.
+The result is a generated zip file that can be extracted to start working with it.
