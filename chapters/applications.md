@@ -42,6 +42,9 @@ The website https://mineflayer.prismarine.js.org provides a detailed overview of
   > KibbleLands Spigot patcher for better server performances and bytecode optimization.
 
 ## Template
+### Minecraft Server Template
+[Minecraft Server Template](https://github.com/Silthus/minecraft-server-template) by [@Silthus](https://github.com/Silthus) is a 30 seconds quickstart template for creating minecraft server networks with Docker and git.
+
 ### Plugin-Starter
 [Plugin-Starter](https://github.com/Tammo0987/Plugin-Starter) by [@Tammo0987](https://github.com/Tammo0987) is a project that creates Minecraft plugin boilerplate code via CLI or from a web interface.
 It is inspired by [Spring Initializr](https://start.spring.io).
