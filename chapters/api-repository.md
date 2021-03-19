@@ -188,6 +188,7 @@ They all aim to reduce the boilerplate involved in writing commands the traditio
 
 - [Annotation Command Framework](https://github.com/aikar/commands) by [@aikar](https://github.com/aikar/)
 - [Brigadier](https://github.com/Mojang/brigadier) by [@Mojang](https://github.com/Mojang)
+- [cloud](https://github.com/Incendo/cloud) by [@Incendo](https://github.com/Incendo)
 - [CommandAPI](https://github.com/JorelAli/CommandAPI) by [@JorelAli](https://github.com/JorelAli/)
 - [CommandFlow](https://github.com/unnamed/CommandFlow) by [@unnamed](https://github.com/unnamed)
 - [Commands-Plus](https://github.com/Paulanerus/Commands-Plus) by [@Paulanerus](https://github.com/Paulanerus)
