@@ -73,6 +73,10 @@ There are many independent Notchian server implementations and you can find [uno
   - Instance system which is much more scalable than worlds
   - Modern API
 
+- [Purpur](https://github.com/pl3xgaming/Purpur) by [@pl3xgaming](https://github.com/pl3xgaming)
+  
+  > Purpur is a fork of Paper, Tuinity, Airplane with the goal of providing new and interesting configuration options, which allow for creating a unique gameplay experience not seen anywhere else.
+
 - [Yatopia](https://github.com/YatopiaMC/Yatopia) by [@YatopiaMC](https://github.com/YatopiaMC)
 
   > Yatopia combines the code from many Paper forks and optimization mods, as well as many unique optimizations.
