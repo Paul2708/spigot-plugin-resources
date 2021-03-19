@@ -287,6 +287,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   More features and examples can be found [here](https://minuskube.gitbook.io/smartinvs/).
 
+- [SpigotGUI](https://github.com/JanHolger/SpigotGUI) by [@JanHolger](https://github.com/JanHolger)
+
+  > A simple to use graphical interface system for spigot.
+
 ### Holograms
 
 - [HolographicDisplays](https://github.com/filoghost/HolographicDisplays) by [@filoghost](https://github.com/filoghost)
