@@ -1,10 +1,9 @@
-# API repository
+# API Repository
 
 There are a lot of tools, libraries and frameworks for Bukkit-based plugin development.
 This file lists an unexhaustive selection.
 
 ## Contents
-
 - [Frameworks](#Frameworks)
 - [Utilities](#Utilities)
   - [Environment](#Environment)
@@ -98,7 +97,7 @@ Full-blown frameworks that operate on top of Bukkit and define how you write you
 
 ## Utilities
 
-Tools that help you with compatibility, interopability and workflow.
+Tools that help you with compatibility, interopability, and workflow.
 
 ### Environment
 
