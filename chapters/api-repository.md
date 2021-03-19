@@ -120,6 +120,10 @@ Tools that help you with compatibility, interopability, and workflow.
   - Version compatibility with only a single annotation
   - Java agent/Custom class loader
 
+- [ProtocolSupport](https://github.com/ProtocolSupport/ProtocolSupport) by [@ProtocolSupport](https://github.com/ProtocolSupport)
+
+  > ProtocolSupport exists to solve the age-old problem of "What do I do if my users refuse to update their client?" in the most effective way possible.
+
 - [XSeries](https://github.com/CryptoMorin/XSeries) by [@CryptoMorin](https://github.com/CryptoMorin)
 
   > XSeries provides abstraction for several version-depended classes.
