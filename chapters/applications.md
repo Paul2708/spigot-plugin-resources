@@ -3,6 +3,7 @@ This chapter introduces external applications that may be independent of Spigot 
 
 ## Contents
 - [Authentication](#Authentication)
+- [Bots](#Bots)
 - [Orchestration](#Orchestration)
 - [Performance](#Performance)
 - [Template](#Template)
@@ -18,6 +19,12 @@ Now, the user has to connect to the Minecraft server `mc-auth.com`.
 After joining, they will be kicked immediately with a 6-digit code as a reason.
 The user has to fill in the form on [https://mc-auth.com](https://mc-auth.com) by adding their Minecraft ingame name and the code they got.
 If the provided data is correct, the user will be redirected to the original web page again and is now logged in.
+
+## Bots
+### Mineflayer
+[Mineflayer](https://github.com/PrismarineJS/mineflayer) by [@PrismarineJS](https://github.com/PrismarineJS) is an API written in NodeJS to create custom Minecraft player bots.
+The bots can interact with blocks, entities, inventories, and so on.
+The website https://mineflayer.prismarine.js.org provides a detailed overview of installation and usage.
 
 ## Orchestration
 ### CloudNet
