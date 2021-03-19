@@ -24,6 +24,7 @@ This file lists an unexhaustive selection.
   - [NBT](#NBT)
   - [Noteblocks](#Noteblocks)
   - [NPCs](#NPCs)
+  - [Particles](#Particles)
   - [Scheduling](#Scheduling)
   - [Scoreboards](#Scoreboards)
   - [Sockets](#Sockets)
@@ -354,7 +355,13 @@ Libraries are projects that focus on a specific aspect of plugins.
 - [NPCLib](https://github.com/MinecraftLibraries/NPCLib) by [@JitseB](https://github.com/JitseB)
 
   > Library that allows developers to create NPCs with an easy-to-use API.
-  
+
+### Particles
+
+- [ParticleLib](https://github.com/ByteZ1337/ParticleLib) by [@ByteZ1337](https://github.com/ByteZ1337)
+
+  > A spigot library supporting all particles from 1.8 to 1.16.5.
+
 ### Scheduling
 
 - [TaskChain](https://github.com/aikar/TaskChain) by [@aikar](https://github.com/aikar)
