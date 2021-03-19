@@ -69,6 +69,10 @@ There are many independent Notchian server implementations and you can find [uno
   - Instance system which is much more scalable than worlds
   - Modern API
 
+- [Yatopia](https://github.com/YatopiaMC/Yatopia) by [@YatopiaMC](https://github.com/YatopiaMC)
+
+  > Yatopia combines the code from many Paper forks and optimization mods, as well as many unique optimizations.
+
 In case you want to play around with the protocol in Java yourself, this may be of use:
 
 - [MCProtocolLib](https://github.com/Steveice10/MCProtocolLib) by [@Steveice10](https://github.com/Steveice10/MCProtocolLib)
