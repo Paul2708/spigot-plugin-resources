@@ -26,6 +26,7 @@ This file lists an unexhaustive selection.
   - [NPCs](#NPCs)
   - [Scheduling](#Scheduling)
   - [Scoreboards](#Scoreboards)
+  - [Sockets](#Sockets)
   - [Testing](#Testing)
   - [Worlds](#Worlds)
 - [Other Languages](#Other-Languages)
@@ -376,7 +377,13 @@ Libraries are projects that focus on a specific aspect of plugins.
   __Main features__:
   - simple syntax for creation `BPlayerBoard board = Netherboard.instance().createBoard(player, scoreboard, "My Scoreboard");`
   - simple syntax for adding/removing scores: `board.set("Test Score", 5);`, `board.remove(5)`
+  
+### Sockets
 
+- [Skungee](https://github.com/Skungee/Skungee/) by [@TheLimeGlass](https://github.com/TheLimeGlass)
+
+  > Spigot Socket API and Bungeecord Skript Addon.
+  
 ### Testing
 
 - [MockBukkit](https://github.com/seeseemelk/MockBukkit) by [@seeseemelk](https://github.com/seeseemelk)

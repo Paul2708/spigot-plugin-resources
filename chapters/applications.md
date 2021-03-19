@@ -4,6 +4,7 @@ This chapter introduces external applications that may be independent of Spigot 
 ## Contents
 - [Authentication](#Authentication)
 - [Orchestration](#Orchestration)
+- [Performance](#Performance)
 
 ## Authentication
 ### Mc-Auth
@@ -20,3 +21,14 @@ If the provided data is correct, the user will be redirected to the original web
 ## Orchestration
 ### CloudNet
 *tbd*
+
+### See Also
+- [SubServers2](https://github.com/ME1312/SubServers-2) by [@ME1312](https://github.com/ME1312)
+  
+  > SubServers 2 is a rewrite of SubServers, the Server Management Platform.
+
+## Performance
+### See Also
+- [KibblePatcher](https://github.com/KibbleLands/KibblePatcher) by [@KibbleLands](https://github.com/KibbleLands)
+  
+  > KibbleLands Spigot patcher for better server performances and bytecode optimization.

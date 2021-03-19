@@ -54,6 +54,7 @@ There are many independent Notchian server implementations and you can find [uno
 - [Cleanstone](https://github.com/CleanstoneMC/Cleanstone) by [@Fionera](https://github.com/Fionera) and [@MyzelYam](https://github.com/MyzelYam)
 
   > Cleanstone is an alternative server software that is based on Spring and Multi-Threading.
+  
 - [Minestom](https://github.com/Minestom/Minestom) by [@Minestom](https://github.com/Minestom/)
 
   > Minestom is an alternative server software that aims to improve the performance.
@@ -70,6 +71,10 @@ In case you want to play around with the protocol in Java yourself, this may be 
 
   > MCProtocolLib provides a protocol library to send and receive packets without using Spigot as dependency.
 
+- [minecraft-server](https://github.com/NyCodeGHG/minecraft-server) by [@NyCodeGHG](https://github.com/NyCodeGHG)
+
+  > This is a small project by me experimenting with the minecraft protocol.
+  
 ### Proxies
 
 Reverse proxies can be used to coordinate connections between different servers.
@@ -91,7 +96,9 @@ Velocity is a modern alternative to BungeeCord which is faster and more secure t
 
 ## Bedrock Edition
 
-...
+- [Cloudburst](https://github.com/CloudburstMC/Server) by [@CloudburstMC](https://github.com/CloudburstMC)
+  
+  > Cloudburst is a server software for Minecraft: Bedrock Edition. It has a few key advantages: written in Java and friendly structure.
 
 ## Bridges
 
