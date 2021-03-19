@@ -221,6 +221,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
 ### Chat
 
+- [adventure](https://github.com/KyoriPowered/adventure) by [@KyoriPowered](https://github.com/KyoriPowered)
+
+  > Adventure is a library for server-controllable user interface elements in Minecraft: Java Edition.
+
 - [better-components](https://github.com/RealCerus/better-components) by [@RealCerus](https://github.com/RealCerus/)
 
   > A very small Spigot library for text components.
