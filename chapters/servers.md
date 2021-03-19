@@ -51,6 +51,10 @@ There is a number of reasons why it may be beneficial to use a server that does 
 
 There are many independent Notchian server implementations and you can find [unofficial lists](https://wiki.vg/Server_List) on the internet. Below, we list a couple of Java-based servers that we find interesting.
 
+- [Akarin](https://github.com/Akarin-project/Akarin) by [@akarin-project](https://github.com/Akarin-project/)
+
+  > Akarin is a powerful Minecraft Server Software based on Tuinity.
+
 - [Cleanstone](https://github.com/CleanstoneMC/Cleanstone) by [@Fionera](https://github.com/Fionera) and [@MyzelYam](https://github.com/MyzelYam)
 
   > Cleanstone is an alternative server software that is based on Spring and Multi-Threading.
