@@ -54,7 +54,11 @@ There are many independent Notchian server implementations and you can find [uno
 - [Cleanstone](https://github.com/CleanstoneMC/Cleanstone) by [@Fionera](https://github.com/Fionera) and [@MyzelYam](https://github.com/MyzelYam)
 
   > Cleanstone is an alternative server software that is based on Spring and Multi-Threading.
+ 
+- [MCHPRS](https://github.com/MCHPR/MCHPRS) by [@MCHPR](https://github.com/MCHPR) 
   
+  > A Minecraft creative server built for redstone. Each 256x256 plot runs on a separate thread, allowing for less lag, more concurrency, and many awesome extra features.
+
 - [Minestom](https://github.com/Minestom/Minestom) by [@Minestom](https://github.com/Minestom/)
 
   > Minestom is an alternative server software that aims to improve the performance.
