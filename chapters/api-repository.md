@@ -416,6 +416,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > Fork of WorldEdit that operates asynchronously for higher performance.
 
+- [Iris](https://github.com/VolmitSoftware/Iris) by [@VolmitSoftware](https://github.com/VolmitSoftware)
+
+  > Iris is a full-featured terrain generator including multiple dimensions and configuration opportunities.
+
 - [Slime-World-Manager](https://github.com/Grinderwolf/Slime-World-Manager) by [@Grinderwolf](https://github.com/Grinderwolf/)
 
   > Implementation of the Slime Region Format, developed by the Hypixel Dev Team.
