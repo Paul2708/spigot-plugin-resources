@@ -11,9 +11,15 @@ Below you can see a hierarchy of the most popular server software based on the o
 - [Vanilla Server](https://www.minecraft.net/en-us/download/server)
   - [CraftBukkit](https://bukkit.org)
     - [Spigot](https://spigotmc.org)
+      - [Cheetah](https://hub.spigotmc.org/stash/projects/CHEETAH)
       - [PaperMC](https://papermc.io)
-        - [Tuinity](https://github.com/Spottedleaf/Tuinity)
+        - [Nyper](https://github.com/NyCodeGHG/Nyper)
         - [TacoSpigot](https://tacospigot.github.io)
+        - [Tuinity](https://github.com/Spottedleaf/Tuinity)
+          - [Akarin](https://github.com/Akarin-project/Akarin)
+          - [Airplane](https://github.com/TECHNOVE/Airplane)
+          - [Purpur](https://github.com/pl3xgaming/Purpur)
+            - [Yatopia](https://github.com/YatopiaMC/Yatopia)
   - [Sponge](https://spongepowered.org)
   - [Forge](https://minecraftforge.net)
   - [Fabric](https://fabricmc.net)
@@ -31,11 +37,31 @@ See [the API repository](./api-repository.md) for a list of tools for Bukkit-bas
 
 [Sponge](https://spongepowered.org) is another modified vanilla server independent of CraftBukkit. It also has a plugin system with an API to create server-side mods, but additionally, it's commonly used as a server for the [Forge](http://files.minecraftforge.net) modding platform.
 
+#### Cheetah
+[Cheetah](https://hub.spigotmc.org/stash/projects/CHEETAH) is a Spigot fork by the SpigotMC Team. It allows you to disable entities and block ticking.
+
+[Source](https://www.spigotmc.org/threads/cheetah.38095/)
+
 #### TacoSpigot
-[TacoSpigot](https://tacospigot.github.io) is a even higher performance fork of [Paper](https://papermc.io)Spigot.
+[TacoSpigot](https://tacospigot.github.io) is a even higher performance fork of [Paper](https://papermc.io). (Not maintained anymore)
 
 #### Tuinity
-[Tuinity](https://github.com/Spottedleaf/Tuinity) is a Fork of Paper aimed to improve performance at high playercounts.
+[Tuinity](https://github.com/Spottedleaf/Tuinity) is a Fork of [Paper](https://github.com/PaperMC/Paper) aimed to improve performance at high playercounts.
+
+#### Akarin
+[Akarin](https://github.com/Akarin-project/Akarin) is a powerful Minecraft Server Software based on [Tuinity](https://github.com/SpottedLeaf/Tuinity) by [@akarin-project](https://github.com/Akarin-project/)
+
+#### Purpur
+[Purpur](https://github.com/pl3xgaming/Purpur) is a fork of [Paper](https://github.com/PaperMC/Paper), [Tuinity](https://github.com/SpottedLeaf/Tuinity), Airplane with the goal of providing new and interesting configuration options, which allow for creating a unique gameplay experience not seen anywhere else.
+
+#### Airplane
+[Airplane](https://github.com/TECHNOVE/Airplane) is a Performance orientated Bukkit implementation based off [Tuinity](https://github.com/SpottedLeaf/Tuinity).
+
+#### Yatopia
+[Yatopia](https://github.com/YatopiaMC/Yatopia) combines the code from many Paper forks and optimization mods, as well as many unique optimizations.
+
+#### Nyper
+[Nyper](https://github.com/NyCodeGHG/Nyper) is a fork of [Paper](https://github.com/PaperMC/Paper) which forces you to use Java 11 and makes the **/reload** command nicer with better tab completion.
 
 #### Forge
 
@@ -50,10 +76,6 @@ See [the API repository](./api-repository.md) for a list of tools for Bukkit-bas
 There is a number of reasons why it may be beneficial to use a server that does not depend on the official vanilla server at all. First, it prevents the [licensing issues that occur when redistributing proprietary code](https://blog.jwf.io/2020/04/open-source-minecraft-bukkit-gpl/). Second of all, it gives you a lot more freedom in how to structure the server, which systems to use etc.
 
 There are many independent Notchian server implementations and you can find [unofficial lists](https://wiki.vg/Server_List) on the internet. Below, we list a couple of Java-based servers that we find interesting.
-
-- [Akarin](https://github.com/Akarin-project/Akarin) by [@akarin-project](https://github.com/Akarin-project/)
-
-  > Akarin is a powerful Minecraft Server Software based on Tuinity.
 
 - [Cleanstone](https://github.com/CleanstoneMC/Cleanstone) by [@Fionera](https://github.com/Fionera) and [@MyzelYam](https://github.com/MyzelYam)
 
@@ -72,14 +94,6 @@ There are many independent Notchian server implementations and you can find [uno
   - Multi-threaded (Chunks & Entities)
   - Instance system which is much more scalable than worlds
   - Modern API
-
-- [Purpur](https://github.com/pl3xgaming/Purpur) by [@pl3xgaming](https://github.com/pl3xgaming)
-  
-  > Purpur is a fork of Paper, Tuinity, Airplane with the goal of providing new and interesting configuration options, which allow for creating a unique gameplay experience not seen anywhere else.
-
-- [Yatopia](https://github.com/YatopiaMC/Yatopia) by [@YatopiaMC](https://github.com/YatopiaMC)
-
-  > Yatopia combines the code from many Paper forks and optimization mods, as well as many unique optimizations.
 
 In case you want to play around with the protocol in Java yourself, this may be of use:
 
