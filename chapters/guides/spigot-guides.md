@@ -2,8 +2,12 @@
 This section lists already existing guides available at [SpigotMC](https://www.spigotmc.org).
 
 ## Contents
+- [Database](#Database)
 - [Environment](#Environment)
 - [World](#World)
+
+## Database
+- [`Guide: DataSource and Try-with-Resources. How to Connect to your Database properly`](https://www.spigotmc.org/threads/guide-datasource-and-try-with-resources-how-to-connect-to-your-database-properly.480002/) by [Eldoria](https://www.spigotmc.org/members/eldoria.585216/) ([@RainbowDashLabs](https://github.com/RainbowDashLabs))
 
 ## Environment
 - [`Windows - Extremely productive development environment`](https://www.spigotmc.org/threads/guide-windows-extremely-productive-development-environment.394754/) by [PiggyPiglet](https://www.spigotmc.org/members/piggypiglet.266605/)
