@@ -393,7 +393,11 @@ Libraries are projects that focus on a specific aspect of plugins.
   __Main features__:
   - simple syntax for creation `BPlayerBoard board = Netherboard.instance().createBoard(player, scoreboard, "My Scoreboard");`
   - simple syntax for adding/removing scores: `board.set("Test Score", 5);`, `board.remove(5)`
-  
+ 
+ - [simple-scoreboard](https://github.com/einfachBlu/simple-scoreboard) by [@einfachBlu](https://github.com/einfachBlu)
+
+   > This library was made to handle easier the scoreboard components, especially tablist and the sidebar.
+ 
 ### Sockets
 
 - [Skungee](https://github.com/Skungee/Skungee/) by [@TheLimeGlass](https://github.com/TheLimeGlass)
