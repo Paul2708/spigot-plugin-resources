@@ -233,6 +233,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > This project contains more APIs that help the developer in using the books.
 
+- [InteractiveChat](https://github.com/LOOHP/InteractiveChat) by [@LOOHP](https://github.com/LOOHP)
+
+  > Add click and hover events to chat messages!
+
 - [IridiumColorAPI](https://github.com/Iridium-Development/IridiumColorAPI) by [@Iridium-Development](https://github.com/Iridium-Development)
 
   > Add gradients and rainbow effects to your messages.
