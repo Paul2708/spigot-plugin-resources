@@ -241,6 +241,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > Add gradients and rainbow effects to your messages.
 
+- [kampfire](https://github.com/NyCodeGHG/kampfire) by [@NyCodeGHG](https://github.com/NyCodeGHG)
+
+  > A Java/Kotlin extension library for adventure providing translation functionality.
+
 - [komponent](https://github.com/BomBardyGamer/komponent) by [@BomBardyGamer](https://github.com/BomBardyGamer)
 
   > An easy to use, fast and lightweight Minecraft chat component library, written in Kotlin.
