@@ -21,6 +21,7 @@ This file lists an unexhaustive selection.
   - [GUIs](#GUIs)
   - [Holograms](#Holograms)
   - [Maps](#Maps)
+  - [Mojang](#Mojang)
   - [NBT](#NBT)
   - [Noteblocks](#Noteblocks)
   - [NPCs](#NPCs)
@@ -329,6 +330,12 @@ Libraries are projects that focus on a specific aspect of plugins.
   - Lots of customisation (how often to render, to whom to render, ...)
   - Tools to resize/crop/divide images and gifs to better fit maps
   - Persistence API
+
+### Mojang
+
+- [MojangAPI](https://github.com/DRSchlaubi/mojang_api) by [@DRSchlaubi](https://github.com/DRSchlaubi)
+  
+  > Java API wrapper for the most commonly used parts of the Mojang API.
 
 ### NBT
 
