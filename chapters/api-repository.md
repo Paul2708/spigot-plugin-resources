@@ -323,6 +323,10 @@ Libraries are projects that focus on a specific aspect of plugins.
   
 ### Maps
 
+- [MinecraftMediaLibrary](https://github.com/PulseBeat02/MinecraftMediaLibrary) by [@PulseBeat02](https://github.com/PulseBeat02)
+  
+  > A library built off the Spigot API to play media for users on a server.
+
 - [packet-maps](https://github.com/cerus/packet-maps) by [@cerus](https://github.com/cerus)
   
   > Library for doing cool stuff (screenshots, videos, 3D rendering, gifs, ...) with Minecraft maps using packets
