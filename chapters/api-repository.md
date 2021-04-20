@@ -112,6 +112,11 @@ Tools that help you with compatibility, interopability, and workflow.
 
   > An IntelliJ plugin that helps you with plugin projects, among others.
 
+- [paperspigot-docker](https://github.com/FelixKlauke/paperspigot-docker) by [@FelixKlauke](https://github.com/FelixKlauke)
+
+  > Easy to use and clean Docker image for running Paper Spigot servers in Docker containers using OpenJDK.
+
+
 ### Version Independent Code
 
 - [compatre](https://github.com/johnnyjayjay/compatre) by [@JohnnyJayJay](https://github.com/johnnyjayjay)
