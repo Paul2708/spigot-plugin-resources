@@ -265,6 +265,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
 ### Configuration
 
+- [simple-message-system](https://github.com/Amejonah1200/simple-message-system) by [@Amejonah1200](https://github.com/Amejonah1200)
+
+  > A simple message system for Spigot.
+
 - [SimplixStorage](https://github.com/Simplix-Softworks/SimplixStorage) by [@Simplix Softworks](https://github.com/Simplix-Softworks)
 
   > A library to store data in a better way independently from Bukkit or BungeeCord
