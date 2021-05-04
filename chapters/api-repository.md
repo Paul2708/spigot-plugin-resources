@@ -327,6 +327,10 @@ Libraries are projects that focus on a specific aspect of plugins.
   
 ### Maps
 
+- [menu-framework](https://github.com/heroslender/menu-framework) by [@heroslender](https://github.com/heroslender)
+  
+  > Innovating the way you make menus in minecraft java edition by using maps to render a custom UI and allowing the player to interact with it.
+
 - [MinecraftMediaLibrary](https://github.com/PulseBeat02/MinecraftMediaLibrary) by [@PulseBeat02](https://github.com/PulseBeat02)
   
   > A library built off the Spigot API to play media for users on a server.
