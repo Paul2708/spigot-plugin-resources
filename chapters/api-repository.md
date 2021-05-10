@@ -414,6 +414,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > A Scoreboard API for Bukkit with 1.7-1.16 support.
 
+- [JScoreboards](https://github.com/JordanOsterberg/JScoreboards) by [@JordanOsterberg](https://github.com/JordanOsterberg)
+
+  > An API with global and per-player scoreboard support.
+
 - [MultiLineAPI](https://github.com/iso2013/MultiLineAPI) by [@iso2013](https://github.com/iso2013/)
 
   > This API adds custom lines of text below a players name.
