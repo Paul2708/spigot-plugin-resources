@@ -17,6 +17,7 @@ This file lists an unexhaustive selection.
 - [Libraries](#Libraries)
   - [Chat](#Chat)
   - [Configuration](#Configuration)
+  - [Database](#Database)
   - [Events](#Events)
   - [GUIs](#GUIs)
   - [Holograms](#Holograms)
@@ -272,6 +273,12 @@ Libraries are projects that focus on a specific aspect of plugins.
 - [SimplixStorage](https://github.com/Simplix-Softworks/SimplixStorage) by [@Simplix Softworks](https://github.com/Simplix-Softworks)
 
   > A library to store data in a better way independently from Bukkit or BungeeCord
+
+### Database
+
+- [spigot-lite-repositories](https://github.com/ExpDev07/spigot-lite-repositories) by [@ExpDev07](https://github.com/ExpDev07)
+
+  > An easy way to store objects in spigot plugins, supporting the JSON format.
 
 ### Events
 
