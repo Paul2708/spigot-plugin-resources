@@ -15,6 +15,7 @@ This file lists an unexhaustive selection.
 - [Commands](#Commands)
 - [Templates](#Templates)
 - [Libraries](#Libraries)
+  - [BungeeCord](#BungeeCord)
   - [Chat](#Chat)
   - [Configuration](#Configuration)
   - [Database](#Database)
@@ -225,6 +226,12 @@ Templates are repositories which you can use to reduce the work on creating a ne
 ## Libraries
 
 Libraries are projects that focus on a specific aspect of plugins.
+
+### BungeeCord
+
+- [Commy](https://github.com/ExpDev07/Commy) by [@ExpDev07](https://github.com/ExpDev07)
+
+  > A simple yet powerful framework which simplifies the use of Plugin Messaging Channels.
 
 ### Chat
 
