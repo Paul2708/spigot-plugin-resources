@@ -345,6 +345,10 @@ Libraries are projects that focus on a specific aspect of plugins.
   
   > Innovating the way you make menus in minecraft java edition by using maps to render a custom UI and allowing the player to interact with it.
 
+- [MinecraftMaps](https://github.com/Redstonneur1256/MinecraftMaps) by [@Redstonneur1256](https://github.com/Redstonneur1256)
+
+  > MinecraftMaps is a plugin and API used to create interactive in game displays.
+
 - [MinecraftMediaLibrary](https://github.com/PulseBeat02/MinecraftMediaLibrary) by [@PulseBeat02](https://github.com/PulseBeat02)
   
   > A library built off the Spigot API to play media for users on a server.
