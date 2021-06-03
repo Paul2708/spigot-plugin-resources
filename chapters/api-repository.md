@@ -407,6 +407,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
 ### Packets
 
+- [packetlistener](https://github.com/miopowered/packetlistener) by [@miopowered](https://github.com/miopowered)
+
+  > Modern and easy to use packet listener library for modifying packets
+
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib) by [@aadnk](https://github.com/aadnk)/[@dmulloy2](https://github.com/dmulloy2)
 
   > ProtocolLib provides read and write access to the Minecraft server protocol in combination with Bukkit.
