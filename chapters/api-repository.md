@@ -416,6 +416,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
 ### Particles
 
+- [EffectLib](https://github.com/elBukkit/EffectLib) by [@elBukkit](https://github.com/elBukkit)
+
+  > Allows constructing of complex effects.
+
 - [ParticleLib](https://github.com/ByteZ1337/ParticleLib) by [@ByteZ1337](https://github.com/ByteZ1337)
 
   > A spigot library supporting all particles from 1.8 to 1.16.5.
