@@ -27,6 +27,7 @@ This file lists an unexhaustive selection.
   - [NBT](#NBT)
   - [Noteblocks](#Noteblocks)
   - [NPCs](#NPCs)
+  - [Packets](#Packets)
   - [Particles](#Particles)
   - [Scheduling](#Scheduling)
   - [Scoreboards](#Scoreboards)
@@ -177,16 +178,6 @@ Tools that help you with compatibility, interopability, and workflow.
   - Economy API
   - Chat API
   - Permissions API
-  
-### Packets
-
-- [ProtocolLib](https://github.com/dmulloy2/ProtocolLib) by [@aadnk](https://github.com/aadnk)/[@dmulloy2](https://github.com/dmulloy2)
-
-  > ProtocolLib provides read and write access to the Minecraft server protocol in combination with Bukkit.
-  
-  __Main features:__
-  - Packet interception
-  - Obfuscation-free API
 
 ### CI/CD
 
@@ -413,6 +404,13 @@ Libraries are projects that focus on a specific aspect of plugins.
 - [NPCLib](https://github.com/MinecraftLibraries/NPCLib) by [@JitseB](https://github.com/JitseB)
 
   > Library that allows developers to create NPCs with an easy-to-use API.
+
+### Packets
+
+- [ProtocolLib](https://github.com/dmulloy2/ProtocolLib) by [@aadnk](https://github.com/aadnk)/[@dmulloy2](https://github.com/dmulloy2)
+
+  > ProtocolLib provides read and write access to the Minecraft server protocol in combination with Bukkit.
+ 
 
 ### Particles
 
