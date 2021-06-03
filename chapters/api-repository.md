@@ -304,6 +304,10 @@ Libraries are projects that focus on a specific aspect of plugins.
   - easy-to-use builder
   - set title, items, closing listener and completion listener
 
+- [GuiLib](https://github.com/Jannyboy11/GuiLib) by [@Jannyboy11](https://github.com/Jannyboy11)
+
+  > Yet another bukkit inventory gui library
+
 - [IF](https://github.com/stefvanschie/IF) by [@stefvanschie](https://github.com/stefvanschie/)
 
   > An inventory framework for managing GUIs
