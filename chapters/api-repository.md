@@ -336,6 +336,10 @@ Libraries are projects that focus on a specific aspect of plugins.
   
 ### Maps
 
+- [AnimatedFrames](https://github.com/InventivetalentDev/AnimatedFrames) by [@InventivetalentDev](https://github.com/InventivetalentDev)
+
+  > Play GIFs and display images in Minecraft
+
 - [menu-framework](https://github.com/heroslender/menu-framework) by [@heroslender](https://github.com/heroslender)
   
   > Innovating the way you make menus in minecraft java edition by using maps to render a custom UI and allowing the player to interact with it.
