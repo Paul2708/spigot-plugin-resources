@@ -278,6 +278,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > An easy way to store objects in spigot plugins, supporting the JSON format.
 
+- [sql-util](https://github.com/RainbowDashLabs/sql-util) by [@RainbowDashLabs](https://github.com/RainbowDashLabs)
+
+  > Utilitites to avoide boilerplate code when working with SQL, contains QueryBuilder, DataSource helper functions and more
+
 ### Events
 
 - [EventAwaiter.java](https://gist.github.com/Paul2708/32d127c8d1d5c31f3a4751cedee3268e) by [@Paul2708](https://github.com/Paul2708)
