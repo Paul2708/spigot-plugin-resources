@@ -332,6 +332,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > A simple to use graphical interface system for spigot.
 
+- [triumph-gui](https://github.com/TriumphTeam/triumph-gui) by [@TriumphTeam](https://github.com/TriumphTeam)
+
+  > Simple lib to create inventory GUIs for Bukkit platforms.
+
 ### Holograms
 
 - [HolographicDisplays](https://github.com/filoghost/HolographicDisplays) by [@filoghost](https://github.com/filoghost)
