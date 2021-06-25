@@ -224,6 +224,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > A simple yet powerful framework which simplifies the use of Plugin Messaging Channels.
 
+- [protocolize](https://github.com/Exceptionflug/protocolize) by [@Exceptionflug](https://github.com/Exceptionflug)
+
+  > A lightweight BungeeCord protocol framework supporting items.
+
 ### Chat
 
 - [adventure](https://github.com/KyoriPowered/adventure) by [@KyoriPowered](https://github.com/KyoriPowered)
