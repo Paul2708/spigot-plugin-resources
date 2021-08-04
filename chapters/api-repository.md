@@ -311,6 +311,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > An inventory framework for managing GUIs
 
+- [interfaces](https://github.com/Incendo/interfaces) by [@Incendo](https://github.com/Incendo/)
+
+  > A Java user-interface library with support for Minecraft.
+
 - [pipe](https://github.com/Lukaesebrot/pipe) by [@Lukaesebrot](https://github.com/Lukaesebrot)
 
   > Pipe helps to create simple callback-based GUIs.
