@@ -356,6 +356,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > Play GIFs and display images in Minecraft
 
+- [MakiScreen](https://github.com/makitsune/MakiScreen) by [@makitsune](https://github.com/makitsune)
+
+  > Streaming OBS video into maps on item frames at a high frame rate
+
 - [menu-framework](https://github.com/heroslender/menu-framework) by [@heroslender](https://github.com/heroslender)
   
   > Innovating the way you make menus in minecraft java edition by using maps to render a custom UI and allowing the player to interact with it.
