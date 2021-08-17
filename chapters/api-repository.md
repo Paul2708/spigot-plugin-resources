@@ -214,6 +214,10 @@ Templates are repositories which you can use to reduce the work on creating a ne
 
   > Template for creating a Spigot Plugin with Gradle and the Kotlin programming language.
 
+- [spigot-plugin-template](https://github.com/Silthus/spigot-plugin-template) by [@Silthus](https://github.com/Silthus)
+
+  > Quickstart template to create new Spigot Minecraft plugins.
+
 ## Libraries
 
 Libraries are projects that focus on a specific aspect of plugins.
