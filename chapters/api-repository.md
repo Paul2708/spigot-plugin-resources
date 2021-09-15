@@ -360,6 +360,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > Play GIFs and display images in Minecraft
 
+- [EzMediaCore](https://github.com/MinecraftMediaLibrary/EzMediaCore) by [@MinecraftMediaLibrary](https://github.com/MinecraftMediaLibrary)
+
+  > A library and plugin which allows you to play videos in Minecraft!
+
 - [MakiScreen](https://github.com/makitsune/MakiScreen) by [@makitsune](https://github.com/makitsune)
 
   > Streaming OBS video into maps on item frames at a high frame rate
