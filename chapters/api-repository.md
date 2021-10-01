@@ -199,7 +199,6 @@ They all aim to reduce the boilerplate involved in writing commands the traditio
 - [Commodore](https://github.com/lucko/commodore) by [@lucko](https://github.com/lucko)
 - [kaesk](https://github.com/DRSchlaubi/kaesk) by [@DRSchlaubi](https://github.com/DRSchlaubi)
 - [Matt's framework](https://github.com/ipsk/MattFramework) by [@ipsk](https://github.com/ipsk)
-- [pipe](https://github.com/Lukaesebrot/pipe) by [@Lukaesebrot](https://github.com/Lukaesebrot)
 - [simple-commands](https://github.com/Paul2708/simple-commands) by [@Paul2708](https://github.com/Paul2708)
 
 ## Templates
@@ -319,14 +318,14 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > A Java user-interface library with support for Minecraft.
 
-- [pipe](https://github.com/Lukaesebrot/pipe) by [@Lukaesebrot](https://github.com/Lukaesebrot)
+- [yamif](https://github.com/lus/yamif) by [@lus](https://github.com/lus)
 
-  > Pipe helps to create simple callback-based GUIs.
+  > **y**et **a**nother **m**inecraft **i**nventory **f**ramework
 
   __Main features__:
-  - intuitive component API (makes additions easier)
-  - not bloated
-  - easy to use builder classes
+  - intuitive and abstract component API
+  - easy to use
+  - minimal
 
 - [SmartInvs](https://github.com/MinusKube/SmartInvs) by [@MinusKube](https://github.com/MinusKube/)
 
@@ -383,6 +382,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 - [packet-maps](https://github.com/cerus/packet-maps) by [@cerus](https://github.com/cerus)
   
   > Library for doing cool stuff (screenshots, videos, 3D rendering, gifs, ...) with Minecraft maps using packets
+
+- [maps](https://github.com/cerus/maps) by [@cerus](https://github.com/cerus)
+
+  > Easy-to-use API for creating clientside Spigot maps
 
 - [spigot-maps](https://github.com/johnnyjayjay/spigot-maps) by [@JohnnyJayJay](https://github.com/johnnyjayjay)
   
