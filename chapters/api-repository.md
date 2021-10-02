@@ -318,15 +318,6 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > A Java user-interface library with support for Minecraft.
 
-- [yamif](https://github.com/lus/yamif) by [@lus](https://github.com/lus)
-
-  > **y**et **a**nother **m**inecraft **i**nventory **f**ramework
-
-  __Main features__:
-  - intuitive and abstract component API
-  - easy to use
-  - minimal
-
 - [SmartInvs](https://github.com/MinusKube/SmartInvs) by [@MinusKube](https://github.com/MinusKube/)
 
   > SmartInvs provides an interface for creating inventories by setting clickable items.
@@ -346,6 +337,15 @@ Libraries are projects that focus on a specific aspect of plugins.
 - [triumph-gui](https://github.com/TriumphTeam/triumph-gui) by [@TriumphTeam](https://github.com/TriumphTeam)
 
   > Simple lib to create inventory GUIs for Bukkit platforms.
+
+- [yamif](https://github.com/lus/yamif) by [@lus](https://github.com/lus)
+
+  > **y**et **a**nother **m**inecraft **i**nventory **f**ramework
+
+  __Main features__:
+  - intuitive and abstract component API
+  - easy to use
+  - minimal
 
 ### Holograms
 
@@ -367,6 +367,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > Streaming OBS video into maps on item frames at a high frame rate
 
+- [maps](https://github.com/cerus/maps) by [@cerus](https://github.com/cerus)
+
+  > Easy-to-use API for creating clientside Spigot maps
+
 - [menu-framework](https://github.com/heroslender/menu-framework) by [@heroslender](https://github.com/heroslender)
   
   > Innovating the way you make menus in minecraft java edition by using maps to render a custom UI and allowing the player to interact with it.
@@ -382,10 +386,6 @@ Libraries are projects that focus on a specific aspect of plugins.
 - [packet-maps](https://github.com/cerus/packet-maps) by [@cerus](https://github.com/cerus)
   
   > Library for doing cool stuff (screenshots, videos, 3D rendering, gifs, ...) with Minecraft maps using packets
-
-- [maps](https://github.com/cerus/maps) by [@cerus](https://github.com/cerus)
-
-  > Easy-to-use API for creating clientside Spigot maps
 
 - [spigot-maps](https://github.com/johnnyjayjay/spigot-maps) by [@JohnnyJayJay](https://github.com/johnnyjayjay)
   
