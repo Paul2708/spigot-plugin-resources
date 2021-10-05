@@ -237,6 +237,10 @@ Libraries are projects that focus on a specific aspect of plugins.
 
   > Adventure is a library for server-controllable user interface elements in Minecraft: Java Edition.
 
+- [adventure-text-minimessage](https://github.com/KyoriPowered/adventure-text-minimessage) by [@KyoriPowered](https://github.com/KyoriPowered)
+  
+  > Simple library that implements an easy to use textual format to send rich json messages with Adventure.
+
 - [better-components](https://github.com/RealCerus/better-components) by [@RealCerus](https://github.com/RealCerus/)
 
   > A very small Spigot library for text components.
