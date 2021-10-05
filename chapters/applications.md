@@ -7,6 +7,7 @@ This chapter introduces external applications that may be independent of Spigot 
 - [Orchestration](#Orchestration)
 - [Performance](#Performance)
 - [Template](#Template)
+- [Tools](#Tools)
 
 ## Authentication
 ### Mc-Auth
@@ -50,3 +51,7 @@ The website https://mineflayer.prismarine.js.org provides a detailed overview of
 It is inspired by [Spring Initializr](https://start.spring.io).
 It allows developers to select the programming language, server software, Minecraft version, and dependencies.
 The result is a generated zip file that can be extracted to start working with it.
+
+## Tools
+### McServ
+[mcserv](https://github.com/DRSchlaubi/mcserv) by [@DRSchlaubi](https://github.com/DRSchlaubi) is a cli tool for quickly setting up a minecraft server.
