@@ -144,6 +144,13 @@ Tools that help you with compatibility, interopability, and workflow.
 
 ### Dependency Management
 
+- [gradle-spigot-dependency-loader](https://github.com/NyCodeGHG/gradle-spigot-dependency-loader) by [@NyCodeGHG](https://github.com/NyCodeGHG)
+
+  > A simple [Gradle](https://gradle.org) plugin, to use the [new MC 1.16.5+ runtime dependency loader](https://www.spigotmc.org/threads/spigot-bungeecord-1-17-1-17-1.510208/#post-4184317) to load your dependencies at runtime.
+  
+  __Main feature:__
+  - Automatically export your gradle dependencies to your plugin.yml file.
+
 - [libby](https://github.com/Byteflux/libby) by [@Byteflux](https://github.com/Byteflux)
 
   > libby lets you add your external dependencies to the classpath without shading.
