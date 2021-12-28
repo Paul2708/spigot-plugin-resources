@@ -361,7 +361,7 @@ Libraries are projects that focus on a specific aspect of plugins.
 
 - [EzMediaCore](https://github.com/MinecraftMediaLibrary/EzMediaCore) by [@MinecraftMediaLibrary](https://github.com/MinecraftMediaLibrary)
 
-  > A library and plugin which allows you to play videos in Minecraft!
+  > A professional media playback library and plugin that allows you to play videos in Minecraft!
 
 - [MakiScreen](https://github.com/makitsune/MakiScreen) by [@makitsune](https://github.com/makitsune)
 
@@ -378,10 +378,6 @@ Libraries are projects that focus on a specific aspect of plugins.
 - [MinecraftMaps](https://github.com/Redstonneur1256/MinecraftMaps) by [@Redstonneur1256](https://github.com/Redstonneur1256)
 
   > MinecraftMaps is a plugin and API used to create interactive in game displays.
-
-- [MinecraftMediaLibrary](https://github.com/PulseBeat02/MinecraftMediaLibrary) by [@PulseBeat02](https://github.com/PulseBeat02)
-  
-  > A library built off the Spigot API to play media for users on a server.
 
 - [packet-maps](https://github.com/cerus/packet-maps) by [@cerus](https://github.com/cerus)
   
